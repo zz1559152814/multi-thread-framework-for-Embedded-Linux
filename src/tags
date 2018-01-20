@@ -1,0 +1,264 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACC_X_1	Route/mecanum.c	/^double ACC_X_1=350; \/\/450$/;"	v
+ACC_X_2	Route/mecanum.c	/^double ACC_X_2=600; \/\/550$/;"	v
+ACC_Y_1	Route/mecanum.c	/^double ACC_Y_1=350; \/\/350$/;"	v
+ACC_Y_2	Route/mecanum.c	/^double ACC_Y_2=600; \/\/420$/;"	v
+A_ErrorPast1	general_func/pid.c	/^static double A_ErrorPast1=0;$/;"	v	file:
+A_ErrorPast2	general_func/pid.c	/^static double A_ErrorPast2=0;$/;"	v	file:
+A_Mend	general_func/pid.c	/^static double A_Mend=0;$/;"	v	file:
+Acc	Route/goline.c	/^double Acc,Dec;$/;"	v
+Acc_Dis	Route/goline.c	/^double Acc_Dis,Dec_Dis;$/;"	v
+Acc_Limit_Enable	Route/mecanum.c	5;"	d	file:
+Acc_Limit_Enable_new	Route/pointpath.c	6;"	d	file:
+Acc_Rate	Route/goline.c	/^double Acc_Rate=0.3;$/;"	v
+Aim_A_Circle	Route/keep.c	/^fp64 Aim_A_Circle[4];\/\/‘⁄¬•Ã›°¢√∑ª®◊Æ∫ÕıŒıŒ∞Âµ»¥¶øø‘≤∂®Œªµƒ¿ÌœÎ◊¯±Í$/;"	v
+Aim_A_G_Circle	Route/keep.c	/^fp64 Aim_A_G_Circle[4];$/;"	v
+Aim_A_Handover	Route/keep.c	/^s16 Aim_A_Handover[4];$/;"	v
+Aim_A_Pole	Route/keep.c	/^fp64 Aim_A_Pole;$/;"	v
+Aim_A_Swing	Route/keep.c	/^fp64 Aim_A_Swing[2];\/\/46$/;"	v
+Aim_Angle	Route/keep.c	/^double Aim_Angle;   \/\/◊ﬂ‘≤µƒƒø±ÍŒª÷√$/;"	v
+Aim_D_Circle	Route/keep.c	/^fp64 Aim_D_Circle[4];$/;"	v
+Aim_D_Swing	Route/keep.c	/^fp64 Aim_D_Swing[3];\/\/   ‘⁄«Ô«ß¥¶µƒ¿ÌœÎ◊¯±Í$/;"	v
+Aim_Dist	Route/keep.c	/^double Aim_Dist;$/;"	v
+Aim_Keep_Point	Route/keep.c	/^struct Point Aim_Keep_Point;$/;"	v	typeref:struct:Point
+Aim_Keep_Radian	Route/keep.c	/^double Aim_Keep_Radian;$/;"	v
+Aim_Radian	Route/goline.c	/^double Aim_Radian;$/;"	v
+Aim_X_Handover	Route/keep.c	/^s16 Aim_X_Handover[4];$/;"	v
+Aim_X_Pole	Route/keep.c	/^s16 Aim_X_Pole;\/\/‘⁄√∑ª®◊Æ¥¶∑≈÷√◊‘∂Øª˙∆˜»Àµƒ¿ÌœÎ◊¯±Í$/;"	v
+Aim_Y_Handover	Route/keep.c	/^s16 Aim_Y_Handover[4];$/;"	v
+Aim_Y_Pole	Route/keep.c	/^s16 Aim_Y_Pole;$/;"	v
+Aim_Z_Handover	Route/keep.c	/^s16 Aim_Z_Handover[4];\/\/∑÷±Œ™‘⁄ıŒıŒ∞Â°¢√∑ª®◊Æ“‘º∞«Ô«ß¥¶ΩªΩ”µƒ¿ÌœÎ◊¯±Í,‘⁄t_keyboard.c¿Ô√Êø…“‘Ω¯––≥ı ºªØ$/;"	v
+AnglePID	general_func/pid.c	/^double AnglePID(double Error,struct PID pid)$/;"	f
+BUTTON	thread/handle.c	10;"	d	file:
+BUTTON_MAJOR	button_module/mini2440_buttons_my.c	53;"	d	file:
+Cam_A_AmendV	general_func/pid.c	/^fp64 Cam_A_AmendV = 0;$/;"	v
+Cam_A_EP1	general_func/pid.c	/^fp64 Cam_A_EP1 = 0.0;$/;"	v
+Cam_A_EP2	general_func/pid.c	/^fp64 Cam_A_EP2 = 0.0;$/;"	v
+Cam_A_PID	general_func/pid.c	/^fp64 Cam_A_PID(double error_angle,struct PID pid)$/;"	f
+Cam_F_DISABLE	Route/keep.c	/^u8 Cam_F_DISABLE;$/;"	v
+Cam_X_AmendV	general_func/pid.c	/^fp64 Cam_X_AmendV = 0;$/;"	v
+Cam_X_EP1	general_func/pid.c	/^fp64 Cam_X_EP1 = 0.0;$/;"	v
+Cam_X_EP2	general_func/pid.c	/^fp64 Cam_X_EP2 = 0.0;$/;"	v
+Cam_X_PID	general_func/pid.c	/^fp64 Cam_X_PID(s16 error_dis,struct PID pid)$/;"	f
+Cam_Y_AmendV	general_func/pid.c	/^fp64 Cam_Y_AmendV = 0;$/;"	v
+Cam_Y_EP1	general_func/pid.c	/^fp64 Cam_Y_EP1 = 0.0;$/;"	v
+Cam_Y_EP2	general_func/pid.c	/^fp64 Cam_Y_EP2 = 0.0;$/;"	v
+Cam_Y_PID	general_func/pid.c	/^fp64 Cam_Y_PID(s16 error_dis,struct PID pid)$/;"	f
+Cam_Z_AmendV	general_func/pid.c	/^fp64 Cam_Z_AmendV = 0; $/;"	v
+Cam_Z_EP1	general_func/pid.c	/^fp64 Cam_Z_EP1 = 0.0;$/;"	v
+Cam_Z_EP2	general_func/pid.c	/^fp64 Cam_Z_EP2 = 0.0;$/;"	v
+Cam_Z_PID	general_func/pid.c	/^fp64 Cam_Z_PID(s16 error_dis,struct PID pid)$/;"	f
+Cannot_See_Flag	Route/keep.c	/^u8 Cannot_See_Flag;$/;"	v
+Center	Route/gocircle.c	/^struct Point Center;$/;"	v	typeref:struct:Point
+DEVICE_NAME	button_module/mini2440_buttons_my.c	54;"	d	file:
+D_ErrorPast1	general_func/pid.c	/^static double D_ErrorPast1=0;$/;"	v	file:
+D_ErrorPast2	general_func/pid.c	/^static double D_ErrorPast2=0;$/;"	v	file:
+D_Mend	general_func/pid.c	/^static double D_Mend=0;$/;"	v	file:
+DataConvBuff	general_func/mystring.c	/^char DataConvBuff[25] = {0};$/;"	v
+Dec	Route/goline.c	/^double Acc,Dec;$/;"	v
+Dec_Dis	Route/goline.c	/^double Acc_Dis,Dec_Dis;$/;"	v
+Dec_Rate	Route/goline.c	/^double Dec_Rate=0.3;$/;"	v
+DistancePID	general_func/pid.c	/^double DistancePID(double Error,struct PID pid)$/;"	f
+EasyLine	Route/easyline.c	/^void EasyLine(struct Point end_point,double aim_radian,double speed)$/;"	f
+End_Point	Route/goline.c	/^struct Point End_Point;$/;"	v	typeref:struct:Point
+Float2Str	general_func/mystring.c	/^char *Float2Str(float FloatData, int PointNum)$/;"	f
+GOLINEFLAG	MyFile/speed_test.c	/^int GOLINEFLAG=0;$/;"	v
+GetDis_P2L	general_func/mymath.c	/^double GetDis_P2L(struct Point p,double a,double b,double c)$/;"	f
+GetDis_P2L_PK	general_func/mymath.c	/^double GetDis_P2L_PK(struct Point p,struct Point p0,double k)$/;"	f
+GetDis_P2L_PP	general_func/mymath.c	/^double GetDis_P2L_PP(struct Point p,struct Point p1,struct Point p2)$/;"	f
+GetFoot_P2L	general_func/mymath.c	/^struct Point GetFoot_P2L(struct Point p,double a,double b,double c)$/;"	f
+GetFoot_P2L_PK	general_func/mymath.c	/^struct Point GetFoot_P2L_PK(struct Point p,struct Point p0,double k)$/;"	f
+GetFoot_P2L_PP	general_func/mymath.c	/^struct Point GetFoot_P2L_PP(struct Point p,struct Point p1,struct Point p2)$/;"	f
+GetLength	general_func/mymath.c	/^double GetLength(struct Point a,struct Point b)$/;"	f
+GetLineAngle	general_func/mymath.c	/^double GetLineAngle(struct Point sta,struct Point end)$/;"	f
+GetLineSlope	general_func/mymath.c	/^double GetLineSlope(struct Point a,struct Point b)$/;"	f
+GetSimpFile	general_func/mystring.c	/^char *GetSimpFile(char *str)$/;"	f
+GoCircle	Route/gocircle.c	/^void GoCircle(void)$/;"	f
+GoLine	Route/goline.c	/^void GoLine(void)$/;"	f
+GoPointPath	Route/pointpath.c	/^void GoPointPath(void)$/;"	f
+HandoverFinish	Route/keep.c	/^u8 HandoverFinish;$/;"	v
+Handover_R	Route/keep.c	/^double Handover_R = -500.0;$/;"	v
+Handover_Z_DISABLE	Route/keep.c	/^u8 Handover_Z_DISABLE;$/;"	v
+Int2Str	general_func/mystring.c	/^char *Int2Str(int IntData)$/;"	f
+KERNEL_DIR	button_module/Makefile	/^KERNEL_DIR := \/lib\/modules\/$(shell uname -r)\/build  $/;"	m
+Keep	Route/keep.c	/^void Keep(void)$/;"	f
+Keep_Angle	Route/keep.c	/^void Keep_Angle(u8 place)$/;"	f
+Keep_Circle	Route/keep.c	/^void Keep_Circle(u8 place)$/;"	f
+Keep_Handover	Route/keep.c	/^void Keep_Handover(int place)$/;"	f
+Keep_Pole	Route/keep.c	/^void Keep_Pole(void)$/;"	f
+Keep_Swing	Route/keep.c	/^void Keep_Swing(u8 ground)$/;"	f
+Line_Angle	Route/goline.c	/^double Line_Angle;$/;"	v
+MAX_SPEED	Route/keep.c	191;"	d	file:
+Max	general_func/mymath.c	/^double Max(double a,double b)$/;"	f
+MaxFour	general_func/mymath.c	/^double MaxFour(double a,double b,double c,double d)$/;"	f
+Max_Acc	Route/mecanum.c	6;"	d	file:
+PI	MyFile/speed_test.c	4;"	d	file:
+PI	Route/mecanum.c	8;"	d	file:
+PID	general_func/pid.c	/^double PID(double Error,struct PID pid)$/;"	f
+PID_Clear	general_func/pid.c	/^void PID_Clear()$/;"	f
+PID_flag	general_func/pid.c	/^u8 PID_flag=1;$/;"	v
+PWD	button_module/Makefile	/^PWD := $(shell pwd)  $/;"	m
+Pid_List	general_func/pid.c	/^struct PID Pid_List[]=$/;"	v	typeref:struct:PID
+PointRoute	Route/PointRoute.c	/^const struct Path_Point PointRoute[] = $/;"	v	typeref:struct:Path_Point
+Point_EndNum	Route/pointpath.c	/^int Point_EndNum;$/;"	v
+Point_NowNum	Route/pointpath.c	/^int Point_NowNum;$/;"	v
+Point_StartNum	Route/pointpath.c	/^int Point_StartNum;$/;"	v
+PoleFinish	Route/keep.c	/^u8 PoleFinish;$/;"	v
+PolePut_R	Route/keep.c	/^double PolePut_R;$/;"	v
+R	Route/gocircle.c	/^double R;$/;"	v
+RATE	Route/mecanum.c	7;"	d	file:
+Recv_Data1	thread/serialrecv.c	/^union uRecvData Recv_Data1; $/;"	v	typeref:union:uRecvData
+RunCommand	tcp/init_server.py	/^def RunCommand(command):$/;"	f
+RunCommand	tcp/tcp_server.py	/^def RunCommand(command):$/;"	f
+S	Route/goline.c	/^double S;$/;"	v
+SQR	MyFile/speed_test.c	3;"	d	file:
+STOPALL	thread/emergency.c	11;"	d	file:
+SW_SPEED	Route/keep.c	/^fp64 SW_SPEED = 400;$/;"	v
+Send_Data1	thread/serialsend.c	/^union uSendData Send_Data1; $/;"	v	typeref:union:uSendData
+SetCamCircle	Route/keep.c	/^void SetCamCircle(fp64 aim_a,fp64 aim_d,fp64 aim_a_g,u8 place)$/;"	f
+SetCircle	Route/gocircle.c	/^void SetCircle(struct Point center,double r,double speed)$/;"	f
+SetGoCamCircle	Route/keep.c	/^void SetGoCamCircle(fp64 aim_a,fp64 aim_d)$/;"	f
+SetHandover	Route/keep.c	/^void SetHandover(s16 aim_x,s16 aim_y,s16 aim_z,s16 aim_a,int place)$/;"	f
+SetKeep	Route/keep.c	/^void SetKeep(struct Point end_point,double aim_radian,double speed_max)$/;"	f
+SetLine	Route/goline.c	/^void SetLine(struct Point end_point,double aim_radian,double speed_sta,double speed_max,double speed_end)$/;"	f
+SetPointPath	Route/pointpath.c	/^void SetPointPath(int sta_num,int end_num)$/;"	f
+SetPole	Route/keep.c	/^void SetPole(s16 aim_x,s16 aim_y,fp64 aim_a)$/;"	f
+SetSpeed	Route/mecanum.c	/^void SetSpeed(double speed_x,double speed_y,double speed_rotation)$/;"	f
+SetSwing	Route/keep.c	/^void SetSwing(fp64 aim_d1,fp64 aim_d2,fp64 aim_a,u8 ground)$/;"	f
+Speed	Route/gocircle.c	/^double Speed;$/;"	v
+Speed_Keep_Max	Route/keep.c	/^double Speed_Keep_Max;$/;"	v
+Speed_Limit	Route/mecanum.c	/^double Speed_Limit = 1000;$/;"	v
+Speed_Max	Route/goline.c	/^double Speed_Max;$/;"	v
+Speed_Rotation	Route/mecanum.c	/^double Speed_Rotation;		\/\/ (rad\/s)\/100$/;"	v
+Speed_Sta	Route/goline.c	/^double Speed_Sta;$/;"	v
+Speed_X	Route/mecanum.c	/^double Speed_X;				\/\/ mm\/s$/;"	v
+Speed_Y	Route/mecanum.c	/^double Speed_Y;				\/\/ mm\/s$/;"	v
+Sta_Point	Route/goline.c	/^struct Point Sta_Point;$/;"	v	typeref:struct:Point
+Stop_Flag	Route/keep.c	/^u8 Stop_Flag[3];$/;"	v
+SwingFinish	Route/keep.c	/^u8 SwingFinish;$/;"	v
+V_Max_Z	Route/keep.c	/^double V_Max_Z[2] = {4000.0,2000.0};\/\/ΩªΩ”…œœ¬µÁª˙◊Ó¥ÛµƒÀŸ∂»$/;"	v
+Vout	general_func/pid.c	/^fp64 Vout[5]={0.0};$/;"	v
+WT_D1_AmendV	general_func/pid.c	/^fp64 WT_D1_AmendV  = 0;$/;"	v
+WT_D1_EP1	general_func/pid.c	/^fp64 WT_D1_EP1  = 0.0;$/;"	v
+WT_D1_EP2	general_func/pid.c	/^fp64 WT_D1_EP2  = 0.0;$/;"	v
+WT_D1_PID	general_func/pid.c	/^fp64 WT_D1_PID(double error_dis,struct PID pid)$/;"	f
+WT_D2_AmendV	general_func/pid.c	/^fp64 WT_D2_AmendV  = 0;$/;"	v
+WT_D2_EP1	general_func/pid.c	/^fp64 WT_D2_EP1  = 0.0;$/;"	v
+WT_D2_EP2	general_func/pid.c	/^fp64 WT_D2_EP2  = 0.0;$/;"	v
+WT_D2_PID	general_func/pid.c	/^fp64 WT_D2_PID(double error_dis,struct PID pid)$/;"	f
+acc_set	MyFile/speed_test.c	/^void acc_set(void)$/;"	f
+acc_vaule_x	MyFile/speed_test.c	/^static double acc_vaule_x;$/;"	v	file:
+acc_vaule_y	MyFile/speed_test.c	/^static double acc_vaule_y;$/;"	v	file:
+another_way	thread/handle.c	/^unsigned int another_way = 1;$/;"	v
+bind_ip	tcp/tcp_server.py	/^bind_ip = "0.0.0.0"                           #current host ip$/;"	v
+bind_port	tcp/tcp_server.py	/^bind_port = 9999$/;"	v
+bl_speed	Route/mecanum.c	/^double bl_speed;$/;"	v
+br_speed	Route/mecanum.c	/^double br_speed;$/;"	v
+button_irq_desc	button_module/mini2440_buttons_my.c	/^struct button_irq_desc$/;"	s	file:
+button_irqs	button_module/mini2440_buttons_my.c	/^static struct button_irq_desc button_irqs [] =$/;"	v	typeref:struct:button_irq_desc	file:
+buttons_interrupt	button_module/mini2440_buttons_my.c	/^static irqreturn_t buttons_interrupt(int irq,void *dev_id)$/;"	f	file:
+client	tcp/tcp_client.py	/^	client = socket.socket(socket.AF_INET,socket.SOCK_STREAM)$/;"	v
+client_handler	tcp/tcp_server.py	/^	client_handler = threading.Thread(target=handle_client, args = (client,))$/;"	v
+close_nfp	thread/netsend.c	/^void close_nfp(int signo)$/;"	f
+coeff_r	Route/mecanum.c	/^double coeff_x,coeff_y,coeff_r;$/;"	v
+coeff_x	Route/mecanum.c	/^double coeff_x,coeff_y,coeff_r;$/;"	v
+coeff_y	Route/mecanum.c	/^double coeff_x,coeff_y,coeff_r;$/;"	v
+command	tcp/tcp_client.py	/^	command = raw_input()$/;"	v
+convert_get	MyFile/speed_test.c	/^void convert_get(void)$/;"	f
+delay_time	MyFile/speed_test.c	/^int delay_time;$/;"	v
+emergency_thread	thread/emergency.c	/^int emergency_thread()$/;"	f
+emergency_tid	main.c	/^pthread_t emergency_tid;$/;"	v
+encod_file	MyFile/speed_test.c	/^FIL encod_file;$/;"	v
+ev_press	button_module/mini2440_buttons_my.c	/^static volatile int ev_press = 0; \/*ÂàùÂßã‰∏∫0*\/$/;"	v	file:
+fl_speed	Route/mecanum.c	/^double fl_speed;$/;"	v
+flag_set	MyFile/speed_test.c	/^void flag_set(void)$/;"	f
+fr_speed	Route/mecanum.c	/^double fr_speed;$/;"	v
+getvaule	thread/serialrecv.c	/^int getvaule(struct RecvData tmp)$/;"	f
+go_stright	MyFile/speed_test.c	/^void go_stright(void)$/;"	f
+gotime	MyFile/speed_test.c	/^static int gotime=0;$/;"	v	file:
+handle_client	tcp/init_server.py	/^def handle_client(client_socket):$/;"	f
+handle_client	tcp/tcp_server.py	/^def handle_client(client_socket):$/;"	f
+handle_thread	thread/handle.c	/^int handle_thread(void* parameter)$/;"	f
+handle_tid	main.c	/^pthread_t handle_tid;$/;"	v
+irq	button_module/mini2440_buttons_my.c	/^  int irq; \/*‰∏≠Êñ≠Âè∑*\/\/*‰∏≠Êñ≠Âè∑ÂîØ‰∏ÄË°®Á§∫‰∏Ä‰∏™‰∏≠Êñ≠*\/$/;"	m	struct:button_irq_desc	file:
+keepspeed	MyFile/speed_test.c	/^double keepspeed=150;$/;"	v
+keepspeed1	MyFile/speed_test.c	/^double keepspeed1=2;$/;"	v
+key_value	MyFile/speed_test.c	/^static	rt_uint32_t key_value;$/;"	v	file:
+killall	thread/emergency.c	/^int killall(void)$/;"	f
+main	main.c	/^int main(void)$/;"	f
+mini2440_buttons_close	button_module/mini2440_buttons_my.c	/^static int mini2440_buttons_close(struct inode *inode,struct file *file)$/;"	f	file:
+mini2440_buttons_exit	button_module/mini2440_buttons_my.c	/^module_exit(mini2440_buttons_exit);$/;"	v
+mini2440_buttons_exit	button_module/mini2440_buttons_my.c	/^static void __exit mini2440_buttons_exit(void)$/;"	f	file:
+mini2440_buttons_fops	button_module/mini2440_buttons_my.c	/^static struct file_operations mini2440_buttons_fops =$/;"	v	typeref:struct:file_operations	file:
+mini2440_buttons_init	button_module/mini2440_buttons_my.c	/^module_init(mini2440_buttons_init);$/;"	v
+mini2440_buttons_init	button_module/mini2440_buttons_my.c	/^static int __init mini2440_buttons_init(void)$/;"	f	file:
+mini2440_buttons_open	button_module/mini2440_buttons_my.c	/^static int mini2440_buttons_open(struct inode *inode,struct file *file)$/;"	f	file:
+mini2440_buttons_poll	button_module/mini2440_buttons_my.c	/^static unsigned int mini2440_buttons_poll(struct file *file,struct poll_table_struct *wait)$/;"	f	file:
+mini2440_buttons_read	button_module/mini2440_buttons_my.c	/^static int mini2440_buttons_read(struct file *filp,char __user *buff,size_t count,loff_t *offp)$/;"	f	file:
+motor_speed	Route/mecanum.c	/^double motor_speed=0;$/;"	v
+my_goline	MyFile/speed_test.c	/^void my_goline(Speed_Data speed_mes)$/;"	f
+name	button_module/mini2440_buttons_my.c	/^  char *name; \/*ÂêçÁß∞*\/$/;"	m	struct:button_irq_desc	file:
+netsend_thread	thread/netsend.c	/^int netsend_thread()$/;"	f
+netsend_tid	main.c	/^pthread_t netsend_tid;$/;"	v
+netsenddata	thread/netsend.c	/^union sSenddata netsenddata;$/;"	v	typeref:union:sSenddata
+nfp	thread/netsend.c	/^int nfp;$/;"	v
+number	button_module/mini2440_buttons_my.c	/^  int number; \/*ÁºñÂè∑*\/$/;"	m	struct:button_irq_desc	file:
+obj-m	button_module/Makefile	/^obj-m := mini2440_buttons_my.o  $/;"	m
+open_port	serial/serial.c	/^int open_port(int fd,int comport)$/;"	f
+pack_data	thread/netsend.c	/^void pack_data(char* buffer)$/;"	f
+passcreateDaemon	tcp/init_server.py	/^def passcreateDaemon():$/;"	f
+pid_goline_A	MyFile/speed_test.c	/^struct PID pid_goline_A={-0.5,800000,0.3};$/;"	v	typeref:struct:PID
+pid_goline_D_x	MyFile/speed_test.c	/^struct PID pid_goline_D_x={2,800000,0};$/;"	v	typeref:struct:PID
+pid_goline_D_y	MyFile/speed_test.c	/^struct PID pid_goline_D_y={2,800000,0};$/;"	v	typeref:struct:PID
+pid_rate	MyFile/speed_test.c	/^int pid_rate=1;$/;"	v
+pid_set_A	MyFile/speed_test.c	/^void pid_set_A(void)$/;"	f
+pid_set_D_x	MyFile/speed_test.c	/^void pid_set_D_x(void)$/;"	f
+pid_set_D_y	MyFile/speed_test.c	/^void pid_set_D_y(void)$/;"	f
+pin	button_module/mini2440_buttons_my.c	/^  int pin; \/*‰∏≠Êñ≠ÊéßÂà∂ÁöÑÂØÑÂ≠òÂô®*\/$/;"	m	struct:button_irq_desc	file:
+pin_setting	button_module/mini2440_buttons_my.c	/^  int pin_setting; \/*‰∏≠Êñ≠ÁöÑÂºïËÑö*\/$/;"	m	struct:button_irq_desc	file:
+pos	thread/realspeed.c	/^float  pos[5][2]={0};$/;"	v
+posit_file	MyFile/speed_test.c	/^FIL posit_file;$/;"	v
+realspe	thread/realspeed.c	/^float  realspe,realspe_x,realspe_y;\/\/really_speed\/\/$/;"	v
+realspe_x	thread/realspeed.c	/^float  realspe,realspe_x,realspe_y;\/\/really_speed\/\/$/;"	v
+realspe_y	thread/realspeed.c	/^float  realspe,realspe_x,realspe_y;\/\/really_speed\/\/$/;"	v
+realspeed_thread	thread/realspeed.c	/^int realspeed_thread()$/;"	f
+realspeed_tid	main.c	/^pthread_t realspeed_tid;$/;"	v
+response	tcp/tcp_client.py	/^	response = client.recv(4096)$/;"	v
+robo_L	Route/mecanum.c	/^static double robo_L = 636.6;$/;"	v	file:
+robo_W	Route/mecanum.c	/^static double robo_W = 636.2;$/;"	v	file:
+rotation_sign	MyFile/speed_test.c	/^static int rotation_sign;$/;"	v	file:
+senddata	thread/netsend.c	/^int senddata(void)$/;"	f
+serialrecv_thread	thread/serialrecv.c	/^int serialrecv_thread()$/;"	f
+serialrecv_tid	main.c	/^pthread_t serialrecv_tid;$/;"	v
+serialsend_thread	thread/serialsend.c	/^int serialsend_thread()$/;"	f
+serialsend_tid	main.c	/^pthread_t serialsend_tid;$/;"	v
+server	tcp/tcp_server.py	/^server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	v
+server_func	tcp/init_server.py	/^def server_func(bind_port):$/;"	f
+set_opt	serial/serial.c	/^int set_opt(int fd,int nSpeed, int nBits, char nEvent, int nStop)$/;"	f
+setvaule	thread/serialsend.c	/^int setvaule(struct SendData tmp)$/;"	f
+sfp	thread/netsend.c	/^int sfp;$/;"	v
+speed	thread/realspeed.c	/^float  speed[5][2]={0};$/;"	v
+speed_file	MyFile/speed_test.c	/^FIL speed_file;$/;"	v
+speed_last_x	Route/keep.c	/^double speed_last_x = 0;$/;"	v
+speed_last_y	Route/keep.c	/^double speed_last_y = 0;$/;"	v
+speed_rate	Route/mecanum.c	/^double speed_rate = 30;$/;"	v
+speed_x_zx	Route/mecanum.c	/^double speed_x_zx,speed_y_zx;$/;"	v
+speed_y_zx	Route/mecanum.c	/^double speed_x_zx,speed_y_zx;$/;"	v
+stopall	thread/emergency.c	/^int stopall(void)$/;"	f
+target_host	tcp/tcp_client.py	/^target_host = '0.0.0.0'$/;"	v
+target_port	tcp/tcp_client.py	/^target_port = int(sys.argv[1])$/;"	v
+test_speed	MyFile/speed_test.c	/^void test_speed(void)$/;"	f
+tid	thread/netsend.c	/^pthread_t tid;$/;"	v
+times	MyFile/speed_test.c	/^static int times=1;$/;"	v	file:
+tmp_recv	thread/serialrecv.c	/^struct RecvData tmp_recv;$/;"	v	typeref:struct:RecvData
+tmp_send	thread/serialsend.c	/^struct SendData tmp_send;$/;"	v	typeref:struct:SendData
+wheel_r	Route/mecanum.c	/^static double wheel_r = 76.0;$/;"	v	file:
+x_mes	MyFile/speed_test.c	/^FIL x_mes;$/;"	v
+x_sign	Route/mecanum.c	/^int x_sign=1.0,y_sign=1.0;$/;"	v
+y_mes	MyFile/speed_test.c	/^FIL y_mes;$/;"	v
+y_sign	Route/mecanum.c	/^int x_sign=1.0,y_sign=1.0;$/;"	v

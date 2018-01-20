@@ -1,0 +1,1 @@
+arm-linux-gcc -c  -I ./include src/thread/netsend.c -o netsend.o
